@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-inventory-app"
+    }
+  },
+  "defaultProject": "angular-inventory-app",
+  "cli": {
+    "analytics": "8ceb48c3-f4e4-4540-b140-084aece28c3d"
+  }
 }
